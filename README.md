@@ -8,6 +8,6 @@ From command palette (Shift+Ctrl+p) type google then click Enter, A box will sho
 
 Otherwise, you can directly open the search box by using Ctrl+Enter
 
-\!\[feature X\]\(vscode.gif\)
+\!\[feature X\]\(https://github.com/clusterO/googler/blob/main/vscode.gif\)
 
 **Enjoy**
